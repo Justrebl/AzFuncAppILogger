@@ -1,0 +1,6 @@
+__azurite_db_**
+__blobstorage**
+__queuestorage**
+
+bin
+obj
